@@ -241,6 +241,7 @@
 	background-position: center;
 	justify-items: center;
 	align-content: center;
+	text-align : center;
 }
 .pg3-head
 {
@@ -787,4 +788,5 @@ footer
 		padding-top: 100px;
 		padding-bottom: 100px;
 	}
+
 }
